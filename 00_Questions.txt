@@ -1,0 +1,13 @@
+1. Find_Day
+
+
+2. FizzBuzz (Easy)
+       Write a function that prints numbers from 1 to 100.
+       But for multiples of 3, print "Fizz" instead of the number,
+       and for multiples of 5, print "Buzz".
+       For numbers which are multiples of both 3 and 5, print "FizzBuzz".
+
+
+3. Anagram Checker (Easy-Medium)
+       Write a function to check if two strings are anagrams of each other.
+       Example: "listen" and "silent" → true
