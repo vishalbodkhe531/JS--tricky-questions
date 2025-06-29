@@ -1,4 +1,4 @@
-1. Find_Day
+1. Find_Day (Easy)
 
 
 2. FizzBuzz (Easy)
@@ -11,3 +11,14 @@
 3. Anagram Checker (Easy-Medium)
        Write a function to check if two strings are anagrams of each other.
        Example: "listen" and "silent" → true
+
+
+
+4. Find the unique characters in of string
+
+
+5. Find the First Non-Repeating Character (Medium)
+       Given a string, return the first non-repeating character.
+       If all characters repeat, return "None".
+          Example:
+          Input: "aabbcdde" → Output: "c"
